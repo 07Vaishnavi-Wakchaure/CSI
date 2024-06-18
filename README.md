@@ -9,3 +9,10 @@ This project involves developing a program that generates and displays three spe
 Create a simple calculator which can perform simple arithmetic operations like add, subtract, division, multiplication etc.
 
 This project involves developing a simple calculator that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator will take input from the user, process the arithmetic operation, and display the result. The goal of this project is to create an intuitive and user-friendly tool that can handle basic calculations efficiently.
+
+
+#Assignment-3
+Take Any dataset of your choice and do the visualization
+
+The dataset which i have choosed is heart.csv
+Data Visualization: The box plot and histogram parts of your code are directly related to data visualization. They help in understanding the distribution, spread, and potential outliers in the data.
