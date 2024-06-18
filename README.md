@@ -14,5 +14,6 @@ This project involves developing a simple calculator that can perform basic arit
 #Assignment-3
 Take Any dataset of your choice and do the visualization
 
-The dataset which i have choosed is heart.csv
+The dataset which i have choosed is heart.csv.
+
 Data Visualization: The box plot and histogram parts of your code are directly related to data visualization. They help in understanding the distribution, spread, and potential outliers in the data.
