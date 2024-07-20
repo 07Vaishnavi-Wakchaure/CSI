@@ -28,3 +28,10 @@ Feature Engineering: This is the process of creating new features or modifying e
 
 **#Assignment-5**
 Perform data preprocessing on a dataset (e.g., Titanic dataset) including cleaning, handling missing values, transformation, normalization, encoding, and feature engineering for predictive modeling.
+
+**#Assignment-6**
+Data Preprocessing and feature engineering- Phase-2
+
+**#Assignment-7**
+House Price Prediction
+Data Preprocessing and feature engineering
